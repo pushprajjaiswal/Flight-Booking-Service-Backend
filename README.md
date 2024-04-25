@@ -4,7 +4,7 @@
 
 ### Microservices
 
-* [Flight Service](https://github.com/pushprajjaiswal/Flight-Service)
+* [Flight Service](https://github.com/pushprajjaiswal/Flight-Booking-Service)
 * [Flight API Gateway](https://github.com/pushprajjaiswal/Flight-API-Gateway)
 * [Flight Notification Service](https://github.com/pushprajjaiswal/Flight-Notification-Service)
 
